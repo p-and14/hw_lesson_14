@@ -1,0 +1,35 @@
+INFO 2022-05-27 11:43:16,824 : Введётся поиск фильма по названию /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_page
+INFO 2022-05-27 11:43:16,835 : Фильм найден /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_page
+INFO 2022-05-27 11:43:53,987 : Введётся поиск фильма по названию /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_page
+ERROR 2022-05-27 11:43:53,995 : fdsss - фильма с таким названием не существует /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_page
+INFO 2022-05-27 11:46:21,250 : Введётся поиск фильма между 1900 и 2010 годами /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_year
+INFO 2022-05-27 11:46:57,961 : Введётся поиск фильма между 1900 и 2010 годами /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_year
+INFO 2022-05-27 11:46:57,965 : Фильм найден /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_year
+INFO 2022-05-27 11:47:05,651 : Введётся поиск фильма между 1900 и fds годами /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_year
+ERROR 2022-05-27 11:47:05,652 : Некорректно введена дата (('fds', '1900')) /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_year
+INFO 2022-05-27 11:53:13,327 : Введётся поиск фильмов c рейтингом "children" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_children_rating
+INFO 2022-05-27 11:53:13,335 : Фильмы c рейтингом "children" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_children_rating
+INFO 2022-05-27 11:53:27,434 : Введётся поиск фильмов c рейтингом "family" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_family_rating
+INFO 2022-05-27 11:53:27,436 : Фильмы c рейтингом "family" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_family_rating
+INFO 2022-05-27 11:53:41,580 : Введётся поиск фильмов c рейтингом "adult" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_adult_rating
+INFO 2022-05-27 11:53:41,583 : Фильмы c рейтингом "adult" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_adult_rating
+INFO 2022-05-27 11:53:58,412 : Введётся поиск фильмов c рейтингом "family" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_family_rating
+INFO 2022-05-27 11:53:58,414 : Фильмы c рейтингом "family" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_family_rating
+INFO 2022-05-27 11:54:10,423 : Введётся поиск фильмов по жанру "horror" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:54:10,432 : Фильмы по жанру "horror" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:54:19,399 : Введётся поиск фильмов по жанру "dsaa" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:54:19,404 : Фильмы по жанру "dsaa" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:30,546 : Введётся поиск фильмов по жанру "dsaa" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:30,553 : Нет фильмов по жанру "dsaa" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:45,793 : Введётся поиск фильмов по жанру "авыы" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:45,801 : Нет фильмов по жанру "авыы" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:49,198 : Введётся поиск фильмов по жанру "432" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:55:49,205 : Нет фильмов по жанру "432" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:56:05,821 : Введётся поиск фильмов по жанру "com" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 11:56:05,828 : Фильмы по жанру "com" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 12:03:44,149 : Введётся поиск фильмов по жанру "com" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 12:03:44,152 : Успешное подключение к базе данных /Users/qwidi4/PycharmProjects/hw_lesson_14/utils.py >> connect_sql
+INFO 2022-05-27 12:03:44,160 : Данные получены и возвращены /Users/qwidi4/PycharmProjects/hw_lesson_14/utils.py >> connect_sql
+INFO 2022-05-27 12:03:44,161 : Фильмы по жанру "com" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 12:07:38,524 : Введётся поиск фильмов по жанру "com" /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
+INFO 2022-05-27 12:07:38,532 : Фильмы по жанру "com" найдены /Users/qwidi4/PycharmProjects/hw_lesson_14/main.py >> movie_by_genre
